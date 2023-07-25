@@ -1,0 +1,30 @@
+.header-submit-btns-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-submit-btn-login {
+    margin-right: 10px;
+	background-color: transparent;
+	border: 1px solid #6BBFD2;
+	color: #6BBFD2;
+	padding: 10px 30px;
+	text-align: center;
+}
+
+.header-submit-btn-login:hover {
+    cursor: pointer;
+}
+
+.header-submit-btn-register {
+    margin-right: 10px;
+	background-color: #6BBFD2;
+	border: 1px solid #6BBFD2;
+	color: #ffffff;
+	padding: 10px 30px;
+	text-align: center;
+}
+
+.header-submit-btn-register:hover {
+    cursor: pointer;
+}
